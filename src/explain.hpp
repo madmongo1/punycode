@@ -51,8 +51,6 @@ namespace program {
         static void
         process(std::ostream &os, Exception &e, std::size_t level = 0)
         {
-            using namespace std::literals;
-
             report(os, level, e);
 
             try

@@ -1,10 +1,8 @@
-# beast-softphone-problem
+# punycode
 
 ## Intention
 
-To recreate the problem reported here:
-
-https://github.com/boostorg/beast/issues/1798
+A fun atttempt to reimagine punycode in terms of modern c++
 
 ## Required toolchain
 
